@@ -1,2 +1,2 @@
 # ZnHelper
-An experimental project which has ceased technical support in 2023.
+An experimental project which has ceased technical support in 2021.
