@@ -1,2 +1,2 @@
 # ZnHelper
-一款Typecho弹窗客服插件。因本人技术太菜，故开源。
+An experimental project which has ceased technical support in 2023.
